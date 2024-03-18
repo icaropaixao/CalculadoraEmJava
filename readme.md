@@ -1,6 +1,6 @@
 # Estudos com a linguagem Java
 
-## Fixação - Exercício 01
+## - Exercício Calculadora
 
 <p align="center">
   <a href="#">
